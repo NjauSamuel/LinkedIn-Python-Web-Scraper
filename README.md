@@ -16,7 +16,7 @@ into a `.txt` file.
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-repo/linkedin-scraper.git
+   git clone https://github.com/NjauSamuel/LinkedIn-Python-Web-Scraper.git
    cd linkedin-scraper
    ```
 
