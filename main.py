@@ -97,10 +97,8 @@ for page in range(input_page):
     URLs_all_page = URLs_all_page + URLs_one_page
     sleep(2)
 
+
 print('- Finish Task 3: Scrape the URLs')
-
-
-
 # Task: Scrape the data of 1 LinkedIn profile, and write only the URLs to a .txt file
 with open('output.txt', 'w', newline='') as file_output:
     for linkedin_URL in URLs_all_page:
